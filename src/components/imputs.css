@@ -1,0 +1,137 @@
+.form-class{
+    position: absolute;
+    width: 662px;
+    height: 448px;
+    left: 389px;
+    top: 226px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    border-radius: 8px;
+        
+}
+
+
+.Forme-1 {
+    width: 614px;
+    height: 112px;
+    left: 413px;
+    top: 298px;
+    
+    /* Background */
+    
+    background: #F2F2F7;
+    border-radius: 8px;
+}
+
+
+.outPut{
+    border: 2px solid #2641dd;
+
+}
+
+
+.todo-list{
+
+    width: 614px;
+    height: 112px;
+    left: 413px;
+    top: 298px;
+    
+    /* Background */
+    
+    background: #F2F2F7;
+    border-radius: 8px;
+}
+
+.task_name{
+    left: 29.79%;
+    right: 49.38%;
+    top: 38.44%;
+    bottom: 56.22%;
+
+    /* Colors / White */
+
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.date{
+    left: 51.18%;
+    right: 36.46%;
+    top: 38.44%;
+    bottom: 56.22%;
+
+    /* Colors / White */
+
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.date label{
+    left: 51.18%;
+    right: 36.46%;
+    top: 55.44%;
+    bottom: 56.22%;
+    background: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+
+.button{
+
+    width: 88px;
+    height: 28px;
+    left: 923px;
+    top: 346px;
+    background: #3A85F7;
+    border-radius: 8px;
+}
+
+
+.title-todo{
+width: 154px;
+height: 24px;
+left: 413px;
+top: 250px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+
+display: flex;
+align-items: center;
+
+/* Black 2B */
+
+color: #2B2B2B;
+}
+
+
+.lable-change{
+width: 614px;
+height: 112px;
+left: 413px;
+top: 298px;
+
+/* Background */
+
+background: #F2F2F7;
+border-radius: 8px;
+}
+
+
+.arr{
+    width: 614px;
+    height: 224px;
+    left: 413px;
+    top: 426px;
+    
+    background: #F2F2F7;
+    border-radius: 8px;
+}
